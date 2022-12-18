@@ -3,6 +3,8 @@
  # Initial Commands know are
   * git clone
   * git add .
+      - "." to track all of the folder 
+      - else we can give a file names or folder after "git add"
   * git commit -m "message desc"
   * git push
   * git pull
