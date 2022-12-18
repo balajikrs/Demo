@@ -11,6 +11,10 @@
   * git diff
   * git diff -staged
   * git diff -master
+# Learned
+  ## To be used when we add local folder not part of git
+  * git init
+  * git remote add origin <git repo>
 # Things I need to know are
   * How branching works ?
   * How to view multiple folder and files changes in git ?
