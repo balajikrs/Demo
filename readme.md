@@ -15,3 +15,7 @@
   * what is the difference between comparing Master vs feature and feature vs master?
   * How version number gets added ?
   * How to create release branch and post release how to merge into master?
+
+# List of git theory
+  * git was opensource
+  * 
